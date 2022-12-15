@@ -28,7 +28,6 @@ for i in worddict:
         highest=worddict[i]
         maxkey=i
 
-
 print("The words with 6 or more letters are: ")
 for i in wordsw6l:
     print(i)
